@@ -61,7 +61,7 @@ Romans 6:23 "For the wages of sin is death, but the gift of God is eternal life 
 
 # Report Bad Behavior
 
-Pray about it, and contact our support team.
+Contact our support team here.
 - ADD CONTACT INFO HERE
 
 Please include screenshots, evidence, a link, and the type of behavior.
@@ -74,4 +74,4 @@ Please contact us if you see an issue with this code of conduct.
 
 This code of conduct is meant to be used within Christian communities.
 
-The Godly Code of Conduct (version 1.0.1) is a general & free code of conduct that you may use for your projects. Just copy and paste this file into your repository, and make sure to replace contact info or anything else you'd like so it's specific to your community. Source: [github.com/bibleio/godly-code-of-conduct](https://github.com/bibleio/godly-code-of-conduct)
+The Godly Code of Conduct (version 1.0.1) is a general & free code of conduct that you may use for any community. Just copy and paste this file into your repository, and make sure to replace contact info or anything else you'd like so it's specific to your community. Source: [github.com/bibleio/godly-code-of-conduct](https://github.com/bibleio/godly-code-of-conduct)
