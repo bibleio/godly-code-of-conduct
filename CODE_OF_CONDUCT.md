@@ -74,4 +74,4 @@ Please contact us if you see an issue with this code of conduct.
 
 This code of conduct is meant to be used within Christian communities.
 
-The Godly Code of Conduct (version 1.0.0) is a free no-attribution code of conduct that you may use for your projects. Just copy and paste this file into your repository, and make sure to replace certain info so it's specific to your community. Keeping attribution is appreciated though. Made by [Bibleio](https://github.com/bibleio).
+The Godly Code of Conduct (version 1.0.1) is a general & free code of conduct that you may use for your projects. Just copy and paste this file into your repository, and make sure to replace contact info or anything else you'd like so it's specific to your community. Source: [github.com/bibleio/godly-code-of-conduct](https://github.com/bibleio/godly-code-of-conduct)
